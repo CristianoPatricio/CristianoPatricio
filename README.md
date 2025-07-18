@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-I'm a Ph.D. Candidate in Explainable AI for Medical Imaging. My research work focuses on developing inherently interpretable deep learning models for disease diagnosis in medical imaging. Topics of interest: Explainable AI, Vision-Language Models, Concept-based Explanations, Medical Image Analysis, Skin Image Analysis.
+I'm a Ph.D. Candidate in Explainable AI for Medical Imaging. My research work focuses on developing inherently interpretable deep learning models for disease diagnosis in medical imaging.<br>*Topics of interest*: **Explainable AI**, **Vision-Language Models**, **Concept-based Explanations**, **Medical Image Analysis**, **Skin Image Analysis**.
 
 ## 📈 GitHub Stats
 ![CristianoPatricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianoPatricio&show_icons=true&theme=default)
