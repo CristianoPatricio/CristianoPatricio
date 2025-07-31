@@ -11,6 +11,7 @@ I'm a Ph.D. Candidate in Explainable AI for Medical Imaging. My research work fo
 - **Coherent Concept-based Explanations in Medical Image and Its Application to Skin Lesion Diagnosis** (_IEEE CVPRW, 2023_) [[Code](https://github.com/CristianoPatricio/coherent-cbe-skin)][[PDF](https://openaccess.thecvf.com/content/CVPR2023W/SAIAD/papers/Patricio_Coherent_Concept-Based_Explanations_in_Medical_Image_and_Its_Application_to_CVPRW_2023_paper.pdf)]
 - **Explainable Deep Learning Methods in Medical Image Classification: A Survey** (_ACM CSUR, 2023_) [[Code](https://github.com/CristianoPatricio/Explainable-Deep-Learning-Methods-in-Medical-Image-Classification-A-Survey)][[PDF](https://dl.acm.org/doi/10.1145/3625287)]
 - **Zero-Shot Face Recognition: Improving the Discriminability of Visual Face Features Using a Semantic-Guided Attention Model** (_ESWA, 2023_) [[Code](https://github.com/CristianoPatricio/SGAM)][[PDF](https://www.sciencedirect.com/science/article/pii/S0957417422016803)]
+- **ZSpeedL - Evaluating the Performance of Zero-Shot Learning Methods using Low-Power Devices** (_AVSS, 2021_) [[Code](https://github.com/CristianoPatricio/zsl-methods)][[PDF](https://ieeexplore.ieee.org/document/9663762)]
 
 ## 📈 GitHub Stats
 ![CristianoPatricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianoPatricio&show_icons=true&theme=default)
