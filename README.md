@@ -5,7 +5,7 @@ I'm a Ph.D. Candidate in Explainable AI for Medical Imaging. My research work fo
 
 ## 🔬 Research 
 - <sup><b>NEW!</b></sup> **Unsupervised contrastive analysis for anomaly detection in brain MRIs via conditional diffusion models** (_Preprint, 2025_) [[Code](https://github.com/CristianoPatricio/unsupervised-contrastive-cond-diff)][[PDF](https://arxiv.org/abs/2406.00772)]
-- <sup><b>NEW!</b></sup> **CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification** (_Preprint, 2025_) [[Code](https://github.com/CristianoPatricio/CBVLM)][[PDF](https://arxiv.org/abs/2501.12266)]
+- <sup><b>NEW!</b></sup> **CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification** (_CIBM, 2025_) [[Code](https://github.com/CristianoPatricio/CBVLM)][[PDF](https://arxiv.org/abs/2501.12266)]
 - **A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis** (_CSBJ, 2025_) [[Code](https://github.com/CristianoPatricio/2-step-concept-based-skin-diagnosis)][[PDF](https://doi.org/10.1016/j.csbj.2025.02.013)]
 - **Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models** (_IEEE ISBI, 2024_) [[Code](https://github.com/CristianoPatricio/concept-based-interpretability-VLM)][[PDF](https://ieeexplore.ieee.org/abstract/document/10635623)]
 - **Coherent Concept-based Explanations in Medical Image and Its Application to Skin Lesion Diagnosis** (_IEEE CVPRW, 2023_) [[Code](https://github.com/CristianoPatricio/coherent-cbe-skin)][[PDF](https://openaccess.thecvf.com/content/CVPR2023W/SAIAD/papers/Patricio_Coherent_Concept-Based_Explanations_in_Medical_Image_and_Its_Application_to_CVPRW_2023_paper.pdf)]
