@@ -4,6 +4,7 @@
 I'm a Ph.D. Candidate in Explainable AI for Medical Imaging. My research work focuses on developing inherently interpretable deep learning models for disease diagnosis in medical imaging.<br>*Topics of interest*: **Explainable AI**, **Vision-Language Models**, **Concept-based Explanations**, **Medical Image Analysis**, **Skin Image Analysis**.
 
 ## 🔬 Research 
+- <sup><b>NEW!</b></sup> **ViConEx-Med: Visual Concept Explainability via Multi-Concept Token Transformer for Medical Image Analysis** (_Preprint, 2025_) [[Code](https://github.com/CristianoPatricio/viconex-med)][[PDF](https://arxiv.org/abs/2510.10174)]
 - <sup><b>NEW!</b></sup> **SynSkin: A Synthetic Skin Lesion-Like Dataset for Benchmarking Dermoscopic Color Concepts** (_RECPAD, 2025_) [[Code](https://github.com/CristianoPatricio/synskin-dataset)][[PDF]()]
 - <sup><b>NEW!</b></sup> **Unsupervised contrastive analysis for anomaly detection in brain MRIs via conditional diffusion models** (_Preprint, 2025_) [[Code](https://github.com/CristianoPatricio/unsupervised-contrastive-cond-diff)][[PDF](https://arxiv.org/abs/2406.00772)]
 - <sup><b>NEW!</b></sup> **CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification** (_CIBM, 2025_) [[Code](https://github.com/CristianoPatricio/CBVLM)][[PDF](https://arxiv.org/abs/2501.12266)]
