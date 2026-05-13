@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Cristiano Patricio
 
 ## 🚀 About Me
-I'm a Ph.D. Candidate in Explainable AI for Medical Imaging. My research work focuses on developing inherently interpretable deep learning models for disease diagnosis in medical imaging.<br>*Topics of interest*: **Explainable AI**, **Vision-Language Models**, **Concept-based Explanations**, **Medical Image Analysis**, **Skin Image Analysis**.
+PostDoc Researcher in Explainable AI for Medical Imaging. My research work focuses on developing inherently interpretable deep learning models for disease diagnosis in medical imaging.<br>*Topics of interest*: **Explainable AI**, **Vision-Language Models**, **Concept-based Explanations**, **Medical Image Analysis**, **Skin Image Analysis**.
 
 ## 🔬 Research 
 - <sup><b>NEW!</b></sup> **ViConEx-Med: Visual Concept Explainability via Multi-Concept Token Transformer for Medical Image Analysis** (_Preprint, 2025_) [[Code](https://github.com/CristianoPatricio/viconex-med)][[PDF](https://arxiv.org/abs/2510.10174)]
